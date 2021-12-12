@@ -8,7 +8,7 @@ function App() {
       <div>
         <Navbar />
         <div>
-          <img src={inicio}/>
+          <img src={inicio} alt="Laboratorio"/>
         </div>
       </div>
     </div>
